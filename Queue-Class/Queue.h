@@ -1,8 +1,3 @@
-/*******************************
-*  Week 2 lesson:              *
-*   a simple Queue class       *
-*******************************/
-
 /*
 * Class implementing a Queue ADT.
 */

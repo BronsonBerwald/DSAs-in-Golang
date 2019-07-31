@@ -1,8 +1,3 @@
-/*******************************
-*  Week 2 lesson:              *
-*   a simple Stack class       *
-*******************************/
-
 /*
 * Class implementing a Stack ADT.
 */
