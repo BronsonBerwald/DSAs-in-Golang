@@ -1,8 +1,3 @@
-/********************************************
-*  Week 5 lesson:                           *
-*   ArrayList class with search algorithms  *
-*********************************************/
-
 /*
  * Class implementing an array based list. Sequential search, sorted search, and
  * binary search algorithms are implemented also.

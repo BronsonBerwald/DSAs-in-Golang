@@ -1,8 +1,3 @@
-/********************************************
-*  Week 4 lesson:                           *
-*   ArrayList class with sorting algorithms *
-*********************************************/
-
 /*
 * Class implementing an array based list. Bubblesort and quicksort algorithms
 * are implemented also.

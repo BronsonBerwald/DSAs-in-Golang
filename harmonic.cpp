@@ -1,8 +1,3 @@
-/************************************************
-*  Week 4 lesson:                               *
-*  Implementing a harmonic function				*
-*************************************************/
-
 #include <iostream>
 
 using namespace std;

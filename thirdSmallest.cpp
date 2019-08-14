@@ -1,8 +1,3 @@
-/*******************************
-*  Week 4 lesson:              *
-*  Third Smallest Number      *
-*******************************/
-
 #include <iostream>
 
 using namespace std;

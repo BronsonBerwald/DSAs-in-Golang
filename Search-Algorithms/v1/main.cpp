@@ -1,8 +1,3 @@
-/********************************************
-*  Week 5 lesson:                           *
-*   ArrayList class with search algorithms  *
-*********************************************/
-
 #include <iostream>
 #include "ArrayList.h"
 #include <time.h>

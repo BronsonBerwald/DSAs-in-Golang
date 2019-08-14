@@ -1,8 +1,3 @@
-/********************************************
-*  Week 4 lesson:                           *
-*   ArrayList class with sorting algorithms *
-*********************************************/
-
 #include <iostream>
 
 #include "ArrayList.h"
